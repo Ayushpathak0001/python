@@ -1,0 +1,10 @@
+print("Hello world")
+my_name=input("Enter your name : ")
+my_age=input("enter your age : ")
+i_am_from=input("enter your city: ")
+my_hobbies=input("your hobbies : ")
+
+print("MY NAME IS : ",my_name)
+print("MY AGE IS : ",my_age)
+print("I AM FROM : ",i_am_from)
+print("MY HOBBIES ARE : ",my_hobbies)
