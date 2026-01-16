@@ -6,3 +6,5 @@ if(copy_list == list):
     print("palindrome")
 else:
     print("not palindrome")
+print(type(list))
+print(type(copy_list))

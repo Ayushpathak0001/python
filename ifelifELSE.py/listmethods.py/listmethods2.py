@@ -7,3 +7,4 @@ print("\n",list)
 
 list.pop(3)
 print("\n",list)
+
