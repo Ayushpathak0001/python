@@ -7,19 +7,13 @@ for n in no :
     if(n%2==0):
         print("\n",n)
 
-        super_heroes =["Iron man","spiderman","captain america","thor","hulk"]
-        for names in super_heroes:
-            print("\n",names)
-        else:
-                print("\n end list \n")
+names = ["IRON MAN","HULK","THOR","CAPTAIN AMERICA","WANDA","BLACK WIDOW"]
+search =input("enter name to search : ")
+i=0
 
-                
-super_heroes =["Iron man","spiderman","captain america","thor","hulk"]
-i =0
-while i<len(super_heroes):
+for name in names:
+    if name == search:
+        print("found",name," AT INDEX ",i)
+      
+    
     i+=1
-for names in super_heroes:
-        if(names =="thor"):
-            print("thor found",i)
-else :
-                ("not found")
