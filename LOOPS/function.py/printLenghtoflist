@@ -1,0 +1,10 @@
+cities = ["delhi","bihar","pune"]
+cars = ["audi","maruti","mahindra","tata","volswagen"]
+
+def print_len(list):
+    print(len(list))
+    
+    
+       
+print_len(cars)
+print_len(cities)
