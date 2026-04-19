@@ -1,0 +1,16 @@
+collection=set()
+collection.add(2)
+collection.add(3)
+collection.add(5)
+collection.add(87)
+collection.add((43,54,23,12,78))
+
+
+print(collection)
+collection.pop()
+print(collection)
+collection.pop()
+print(collection)
+collect=set()
+collect.add(2)
+print(collect)

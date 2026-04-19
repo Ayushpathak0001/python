@@ -1,0 +1,16 @@
+sugar=100;
+salt=50;
+sugar=50;
+potato=100;
+onion=100;
+flour=100;
+rice=100;
+milk=25;
+sugar_wanted=int(input("enter amount"));
+salt_wanted=int(input("enter amount"));
+sugar_wanted=int(input("enter amount"));
+sugar_wanted=int(input("enter amount"));
+sugar_wanted=int(input("enter amount"));
+sugar_wanted=int(input("enter amount"));
+sugar_wanted=int(input("enter amount"));
+sugar_wanted=int(input("enter amount"));
